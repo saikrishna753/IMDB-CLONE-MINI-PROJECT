@@ -1,3 +1,6 @@
+DEPLOY LINK:
+https://2211cs040076.bytexl.live/
+
 ## React
 
 This is a simple React application. This application serves as a basic template for a react applications.  
